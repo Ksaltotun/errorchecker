@@ -1,0 +1,2 @@
+# errorchecker
+api для стрема
