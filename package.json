@@ -4,6 +4,8 @@
   "description": "api для стрема",
   "type": "module",
   "dependencies": {
-    "firebase-admin": "^11.11.0"
+    "firebase-admin": "^11.11.0",
+    "@grpc/grpc-js": "^1.8.14",
+    "protobufjs": "^7.2.5"
   }
 }
