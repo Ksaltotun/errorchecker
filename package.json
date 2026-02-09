@@ -2,23 +2,8 @@
   "name": "errorchecker",
   "version": "1.0.0",
   "description": "api для стрема",
-  "homepage": "https://github.com/Ksaltotun/errorchecker#readme",
-  "bugs": {
-    "url": "https://github.com/Ksaltotun/errorchecker/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Ksaltotun/errorchecker.git"
-  },
-  "license": "MIT",
-  "author": "Ksaltotun",
   "type": "module",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "dependencies": {
-    "express": "^4.18.2",
     "firebase-admin": "^11.11.0"
   }
 }
